@@ -1,3 +1,7 @@
+# 构建
+
+https://xmrig.com/docs/miner/build/windows
+
 # 网络相关 (Network)
 -o / --url=URL: 挖矿服务器的 URL。
 
