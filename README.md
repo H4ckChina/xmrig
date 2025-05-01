@@ -95,8 +95,6 @@ https://xmrig.com/docs/miner/build/windows
 
 --randomx-cache-qos: 启用 Cache QoS。
 
-后续还有其他模块，例如 OpenCL、CUDA 挖矿支持，你希望继续翻译下去吗？ 😊
-
 # OpenCL 挖矿相关 (OpenCL backend)
 
 --opencl: 启用 OpenCL 挖矿支持 (版本 5.0.0+ 后支持)。
