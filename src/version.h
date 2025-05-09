@@ -23,9 +23,9 @@
 #define APP_NAME      "XMRig"
 #define APP_DESC      "XMRig miner"
 #define APP_VERSION   "6.22.2"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2024 xmrig.com"
+#define APP_DOMAIN    "H4ckChina.com"
+#define APP_SITE      "www.H4ckChina.com"
+#define APP_COPYRIGHT "Copyright (C) 2016-2024 H4ckChina.com"
 #define APP_KIND      "miner"
 
 #define APP_VER_MAJOR  6
