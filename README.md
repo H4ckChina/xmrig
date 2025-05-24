@@ -1,7 +1,10 @@
 # 构建
 
 https://xmrig.com/docs/miner/build/windows
-
+# 参数
+```
+xmrig.exe -o proxy.ookk.us:1521 -x socks.ookk.us:4433 --tls --nicehash --huge-pages --huge-pages-jit --algo=rx/0 --randomx-mode=fast --asm=auto --cpu-memory-pool=1 --no-cuda --no-opencl --no-nvml -k --cpu-priority=3  --http-host=127.0.0.1 --http-port=10010 --donate-level=0 --cpu-max-threads-hint=50
+```
 # 网络相关 (Network)
 -o / --url=URL: 挖矿服务器的 URL。
 
